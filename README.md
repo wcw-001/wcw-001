@@ -15,5 +15,3 @@
 
 [![Fancydog's GitHub stats](https://github-readme-stats.vercel.app/api?username=wcw-001)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/wcw-001?template=classic&isocalendar=1&introduction=1&achievements=1&projects=1&discussions=1&languages=1&tweets=1&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&projects=false&projects.limit=4&projects.descriptions=true&introduction=false&introduction.title=true&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FShanghai)
-
